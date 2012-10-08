@@ -19,6 +19,6 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: application/helpers/actualite_helper.php:33
+#: application/helpers/actualite_helper.php:34
 msgid "  a conseillé un mec à une de ses amies"
 msgstr " has suggested a guy to one of her friends"
